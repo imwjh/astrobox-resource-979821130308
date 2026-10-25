@@ -1,0 +1,38 @@
+{
+  "item": {
+    "id": "979821130308",
+    "restype": "watchface",
+    "name": "靶心",
+    "description": "靶心取自半调网点的反色实验：纯黑相纸取代白纸，显影的墨点变成米白，未显影的外围保持灰阶。十二组时簇沿半径一百五十排布，走过的时刻沉成实心点，未到的仍是淡淡胚点；分针沿一百八十六的轨道逐点落墨，正在显影的一颗亮成朱红。秒不做刻度，而是中心墨点的心跳，六十分钟里由小及大。外围场点随一天缓慢涨大，是曝光留下的余温；三圈规线一圈圈收拢，最终只剩中心一点。我们希望时间像一张正在显影的照片：不喧哗，慢慢浮出。\n\n售价 3.99 元，即日起至 11 月 26 日 享 8 折 - 3.19元",
+    "preview": [
+      "media/01-BULLSEYE靶心-1440x2160.png",
+      "media/01-BULLSEYE靶心-AOD-1440x2160.png",
+      "media/01-BULLSEYE靶心-理念-1440x2160.png"
+    ],
+    "icon": "media/preview-2563.png",
+    "cover": "media/01-BULLSEYE靶心-2160x1440.png",
+    "author": [
+      {
+        "name": "seegood",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "联系我",
+      "url": "https://imwjh.com/contact",
+      "icon": "envelope-open"
+    }
+  ],
+  "downloads": {
+    "xmrw6": {
+      "version": "0.0.0",
+      "file_name": "downloads/22-01-BULLSEYE靶心-10-26-03-39.bin",
+      "versionCode": 0
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
