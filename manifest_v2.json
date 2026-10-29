@@ -45,6 +45,11 @@
       "version": "0.0.0",
       "file_name": "downloads/靶心-Band10Pro.bin",
       "versionCode": 0
+    },
+    "xmb9p": {
+      "version": "0.0.0",
+      "file_name": "downloads/靶心-Band9Pro.bin",
+      "versionCode": 0
     }
   },
   "ext": {
